@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBoot2ConsumerEndpointAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBoot2ConsumerEndpointAppApplication.class, args);
+	int i=10;	SpringApplication.run(SpringBoot2ConsumerEndpointAppApplication.class, args);
 	}
 
 }
