@@ -8,6 +8,7 @@ class SpringBoot2ConsumerEndpointAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+	int x=10;
 	}
 
 }
